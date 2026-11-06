@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/INFOLOC/Desktop/DroidMonitor/build/cmake_install.cmake",
+		"C:/Users/INFOLOC/Desktop/DroidMonitor/build/windows/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

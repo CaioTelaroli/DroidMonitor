@@ -1,0 +1,10 @@
+^C:\USERS\INFOLOC\DESKTOP\DROIDMONITOR\BUILD\CMAKEFILES\126D52F7D04ACFACBAC2D8FD0A5D9F63\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/INFOLOC/Desktop/DroidMonitor -BC:/Users/INFOLOC/Desktop/DroidMonitor/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/INFOLOC/Desktop/DroidMonitor/build/DroidMonitor.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/INFOLOC/Desktop/DroidMonitor/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/INFOLOC/Desktop/DroidMonitor/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/INFOLOC/Desktop/DroidMonitor/build/windows/CMakeFiles/DroidMonitorHost.dir
